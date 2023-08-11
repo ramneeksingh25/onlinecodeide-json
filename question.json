@@ -1,0 +1,5 @@
+{
+	"question": "WAP to Compute Prime Number",
+  "questiondesc":"Given a number n, find out whether the number is a prime or not",
+	"skeletoncode": "class A{\n public int computePrime(int number){\n return 0; \n}  \n }"
+}
